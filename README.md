@@ -6,19 +6,16 @@
 <p>You'll be able to learn how to perform basic CRUD operations and make data persistent through this project. I've used SwiftUI programmatic code in the entire project. And believe me you gonna love it.</p>
 
 <h1>Glance of the App</h1>
-<p>
+
 <h3>Screen 1</h3>
-<img width="219" alt="Screenshot 2023-11-30 at 8 26 00 PM" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/c7346c7e-aee4-40f8-94b1-9e0844dfb5bc">
-
+<img align="left" width="219" alt="Screenshot 2023-11-30 at 8 26 00 PM" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/c7346c7e-aee4-40f8-94b1-9e0844dfb5bc">
 <h3>Screen 2</h3>
-<img width="219" alt="sign in" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/84fb7cff-f296-4712-a3b0-84c638cf8819">
-
+<img align="left" width="219" alt="sign in" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/84fb7cff-f296-4712-a3b0-84c638cf8819">
 <h3>Screen 3</h3>
-<img width="219" alt="Additem" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/e7ccf5bb-6bf1-4035-850c-f1b76a46acf2">
-
+<img align="left" width="219" alt="Additem" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/e7ccf5bb-6bf1-4035-850c-f1b76a46acf2">
 <h3>Screen 4</h3>
-<img width="219" alt="noitem" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/c5c22b19-b520-4803-b4d2-31a7da22f8ac">
-</p>
+<img align="center" width="219" alt="noitem" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/c5c22b19-b520-4803-b4d2-31a7da22f8ac">
+
 <h1>Features</h1>
 </ul>
   <li>Display attractive UI with different Views each time</li>
